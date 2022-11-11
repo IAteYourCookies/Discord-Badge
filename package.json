@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "eris": "^0.17.1"
+  },
+  "name": "discord-badge",
+  "version": "1.0.0",
+  "description": "This is to get the discord badge",
+  "main": "index.js",
+  "scripts": {
+    "run": "npm i && node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IAteYourCookies/Discord-Badge.git"
+  },
+  "author": "Cookiez#0227",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IAteYourCookies/Discord-Badge/issues"
+  },
+  "homepage": "https://github.com/IAteYourCookies/Discord-Badge#readme"
+}
